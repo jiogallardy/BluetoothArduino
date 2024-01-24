@@ -1,4 +1,4 @@
-# C++ projects with Arduino and bluetooth communication
+# Arduino and bluetooth communication in C++ 
 1. WorkingSimplenano33iotAccel
    1. This is a simple script that leverages the built in LSM6DS3 IMU unit in the Arduino Nano 33 iot. It is currently set at a typical baudrate of 115200, logging the the accelerometer and gyroscrope data to the terminal.
 2. BluetoothIot33NanoFirmware
