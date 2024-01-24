@@ -1,1 +1,1 @@
-Welcome to Jios Project Display of some of C++ projects# PublicC
+# Some of my C++ projects with Arduino and bluetooth communication
